@@ -1,5 +1,5 @@
 # Libft
 
-Bibliothèque de fonction C utilisés tout le long du cursus pour les projets C de 42
+The aim of this project is to re-code a lot of highly useful standard functions in C
 
 [Sujet Fr](https://github.com/yataji/libft/blob/master/sujet.fr.pdf)
